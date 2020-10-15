@@ -1,0 +1,35 @@
+GET http://www.cse.iitm.ac.in/ HTTP/1.0
+
+
+
+GET http://www.google.com/ HTTP/1.0
+
+
+
+GET http://www.mit.edu/ HTTP/1.0
+
+
+
+GET HTTP://WWW.stanford.edu/ HTTP/1.0
+
+
+
+GET http://sns.cs.princeton.edu/ HTTP/1.0
+
+
+
+GET http://yuba.stanford.edu/vns/ HTTP/1.0
+
+
+
+GET http://yuba.stanford.edu/vns/images/su.gif HTTP/1.0
+
+
+
+GET http://www.scs.stanford.edu/ HTTP/1.0
+
+
+
+GET https://www.columbia.edu/ HTTP/1.0
+
+
